@@ -1,0 +1,2 @@
+# codificador
+codificador cc1
